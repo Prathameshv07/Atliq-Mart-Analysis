@@ -45,11 +45,7 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 - Acquired proficiency in leveraging `value_counts()` for category analysis and visualizing promo type frequencies with waterfall charts.
 - Strengthened ability to compare pre and post-promotion metrics, enhancing data-driven decision-making skills.
 
-## 5. Important Notes:
-
-- Screenshots of project insights can be found in the project folder.
-
-## 6. Conclusion:
+## 5. Conclusion:
 
 In conclusion, this project provided valuable insights into the performance of promotions at AtliQ Mart. By analyzing store performance, promotion types, and product categories, actionable recommendations can be made for future promotional campaigns.
 
