@@ -27,15 +27,23 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 
 ## 3. Work Done:
 
-- Conducted thorough analysis of store performance, promotion types, and product categories.
-- Utilized Python programming for data manipulation, analysis, and visualization.
-- Employed pandas, matplotlib, and seaborn libraries for data processing and visualization.
+- Analyzed citywise revenue using bar and line charts, including store counts and revenues before and after promotions.
+- Created calculated variables such as Incremental Sold Units (ISU) and percentages for store metrics overview, displaying results in a table.
+- Visualized category sales dynamics with donut and pie charts for before and after promotion periods.
+- Summarized revenue trends by stores in a table, incorporating calculated metrics like Incremental Revenue (IR) and ISU.
+- Used `value_counts()` to get promo type frequencies and created a waterfall chart for visualization.
+- Assessed product performance by campaign and promotion in a table, calculating IR% and ISU%.
+- Displayed sales and revenue distribution by category using bar and donut charts respectively.
 
 ## 4. What I Learned in the Process:
 
-- Enhanced skills in data analysis and visualization using Python.
-- Gained insights into retail promotion strategies and their effectiveness.
-- Improved understanding of the relationship between different variables in a retail environment.
+- Enhanced skills in data manipulation and visualization using pandas and matplotlib libraries.
+- Developed a deeper understanding of creating calculated variables on the go, similar to measures in Power BI.
+- Gained experience in using dual y-axes and annotations for clearer and more informative charts.
+- Improved ability to design effective visual representations like bar charts, line charts, donut charts, and pie charts for various types of data.
+- Learned to summarize and present complex data metrics in a concise and readable tabular format.
+- Acquired proficiency in leveraging `value_counts()` for category analysis and visualizing promo type frequencies with waterfall charts.
+- Strengthened ability to compare pre and post-promotion metrics, enhancing data-driven decision-making skills.
 
 ## 5. Important Notes:
 
