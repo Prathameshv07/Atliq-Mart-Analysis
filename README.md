@@ -1,5 +1,7 @@
 # Analyze Promotions and Provide Tangible Insights to Sales Director
 
+#### Link to notebook: [Atliq Mart Analysis](https://colab.research.google.com/drive/1DD3BrZoOGeeRZvhqwjUORCr1aD2NFXII?usp=sharing)
+
 ## 1. Project Overview:
 
 ### Company Info:
