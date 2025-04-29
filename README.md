@@ -51,4 +51,11 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 
 In conclusion, this project provided valuable insights into the performance of promotions at AtliQ Mart. By analyzing store performance, promotion types, and product categories, actionable recommendations can be made for future promotional campaigns.
 
+## License
 
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.  
+You are free to **use, share, and adapt** the material for **non-commercial and educational purposes**, as long as proper **credit is given** and any changes are noted.
+
+Learn more: [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/)
