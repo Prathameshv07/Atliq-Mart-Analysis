@@ -1,5 +1,7 @@
 # Analyze Promotions and Provide Tangible Insights to Sales Director
 
+> **Context:** Completed as part of the [Codebasics](https://codebasics.io) Resume Project Challenge #9. The problem statement and input dataset (`C9_Input_Files.zip`) are provided by Codebasics and are **not** covered by this repository's license; the analysis, code and write-up are my own.
+
 #### Link to notebook: [Atliq Mart Analysis](https://colab.research.google.com/drive/1DD3BrZoOGeeRZvhqwjUORCr1aD2NFXII?usp=sharing)
 
 ## 1. Project Overview:
@@ -51,11 +53,21 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 
 In conclusion, this project provided valuable insights into the performance of promotions at AtliQ Mart. By analyzing store performance, promotion types, and product categories, actionable recommendations can be made for future promotional campaigns.
 
+## Citation
+
+If you use or build on this project, please cite it. GitHub's **"Cite this repository"** button (generated from [`CITATION.cff`](CITATION.cff)) provides APA and BibTeX formats.
+
+```bibtex
+@software{vaidya_atliqmartanalysis_2024,
+  author = {Vaidya, Prathamesh Sarjerao},
+  title  = {AtliQ Mart Promotion Analysis},
+  year   = {2024},
+  url    = {https://github.com/Prathameshv07/Atliq-Mart-Analysis}
+}
+```
+
 ## License
 
-[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.  
-You are free to **use, share, and adapt** the material for **non-commercial and educational purposes**, as long as proper **credit is given** and any changes are noted.
-
-Learn more: [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/)
+© 2024 Prathamesh Sarjerao Vaidya. This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You may share and adapt it for **non-commercial** purposes, provided you **give appropriate credit** and indicate any changes. See [LICENSE](LICENSE) for details.

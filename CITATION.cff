@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+type: software
+title: "AtliQ Mart Promotion Analysis"
+authors:
+  - given-names: "Prathamesh Sarjerao"
+    family-names: "Vaidya"
+repository-code: "https://github.com/Prathameshv07/Atliq-Mart-Analysis"
+license: CC-BY-NC-4.0
+date-released: "2025-04-29"
+abstract: "An exploratory data analysis of festive-season retail promotions across 50 stores, measuring incremental revenue and incremental sold units by store, city, promotion type and product category using pandas and matplotlib."
+keywords:
+  - "retail analytics"
+  - "exploratory data analysis"
+  - "promotion effectiveness"
+  - "pandas"
+  - "matplotlib"
